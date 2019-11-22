@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42986" started-at="2019-11-22T10:04:25Z" finished-at="2019-11-22T10:05:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42986" started-at="2019-11-22T10:04:25Z" finished-at="2019-11-22T10:05:08Z">
+      <class name="scripts.Amazon_Flipkart_testcase">
+        <test-method status="PASS" signature="start()[pri:0, instance:scripts.Amazon_Flipkart_testcase@7f9a81e8]" name="start" duration-ms="42957" started-at="2019-11-22T10:04:25Z" finished-at="2019-11-22T10:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- scripts.Amazon_Flipkart_testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
